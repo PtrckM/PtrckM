@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D98CF7&background=FF130600&width=435&lines=does+anyone+have+sourcecode+of+life%3F)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=ptrckm&color=blueviolet&style=for-the-badge)
+
+- 👋 Hi, I’m @PtrckM
+- 👀 I’m interested in python, web development, crypto, cybersecurity & game development
+
 <!--
 **PtrckM/PtrckM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
