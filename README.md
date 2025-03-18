@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-informational.svg)](https://github.com/PtrckM/hummingbot-support/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?url=https://x.com/PATz0r3d?style=social&label=PATz0r3d)](https://x.com/PATz0r3d)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCN8XdHop1sQ4OXwONCmS18g)](https://www.youtube.com/@ptrckm)
+
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D98CF7&background=FF130600&width=435&lines=does+anyone+have+sourcecode+of+life%3F)](https://git.io/typing-svg)
