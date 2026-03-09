@@ -2,16 +2,13 @@
 [![Twitter](https://img.shields.io/twitter/url?url=https://x.com/PATz0r3d?style=social&label=PATz0r3d)](https://x.com/PATz0r3d)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCN8XdHop1sQ4OXwONCmS18g)](https://www.youtube.com/@ptrckm)
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PtrckM)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptrckm/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PATz0r3d)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ptrckm)
+
 
 ---
 
 ### Hi there <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PtrckM&theme=tokyonight&hide_border=true&border_radius=10&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<img width="500" height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D98CF7&background=FF130600&width=435&lines=does+anyone+have+sourcecode+of+life%3F)](https://git.io/typing-svg)
 
@@ -19,10 +16,16 @@
 
 
 - 👋 Hi, I’m @PtrckM
-- 👀 I’m interested in python, web development, crypto, cybersecurity & game development
+- 👀 I’m interested in python, scripting (bash & python), web development, crypto, cybersecurity & game development
 
-[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)]()
-[![Apple](https://img.shields.io/badge/Apple-MacBook_M1_Max_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![GitHub Streak](https://streak-stats.demolab.com?user=PtrckM&theme=tokyonight&hide_border=true&border_radius=10&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PtrckM)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptrckm/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PATz0r3d)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ptrckm)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.discord.com/user/ptrckm)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.telegram.com/user/ptrckm)
 
 ---
 
@@ -46,9 +49,19 @@
 	<img width="30" alt="gh" src="https://github.com/user-attachments/assets/5c4a4d9e-1122-4a37-b54f-df0281f0259a" />
 	<img width="30" alt="sublime" src="https://github.com/user-attachments/assets/cbaa06bb-dd73-48fe-9861-226857fa522d" />
 	<img width="30" alt="nvim" src="https://github.com/user-attachments/assets/3b04f68e-6c3d-4cab-a77e-4423313d180c" />
-	<img width="30" alt="omarchy" src="https://github.com/user-attachments/assets/7908ce8f-cfac-49cc-8b01-c8318615000d" />
+	<img width="30" alt="omarchy" src="https://github.com/user-attachments/assets/a9a283f8-54d0-4a3c-96fe-893541879be0" />
 	<img width="30" alt="ai" src="https://github.com/user-attachments/assets/c19ad80d-f5de-40f7-9049-20444b60c518" />
 </p>	
+
+---
+
+### Machine
+
+[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Apple](https://img.shields.io/badge/Apple-MacBook_M1_Max_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/Windows-11_i7_240h_5080-0078d4?style=for-the-badge&logo=windows11&logoColor=white)]()
+[![Arch](https://img.shields.io/badge/Arch-Linux_i7_6700hq_980-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)]()
+
 ---
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PtrckM?cardType=github&theme=tokyonight&fontFamily=Ubuntu&preferLogin=true)](https://git.io/awesome-stats-card)
@@ -83,7 +96,9 @@ No Activity Tracked This Week
 
 ---
 
-<img src="https://imgur.com/rilHVxA.png"/> 
+<p align="center">
+<img height="400" width="1000" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMwNDE2NzYsIm5iZiI6MTc3MzA0MTM3NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA5VDA3MjkzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0NjQ2N2I5NzYyMjA0OGM0NDE5ZjgwZmIzMzg2MmMzYTMzMzFiZGU2ZmE5Mzc3NTI1MjIzMDgzMjZiZjZjMDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qIoVXa4RZa2DFa2pW-HPEAzOxP5WGWG7vEzu83malss"/> 
+</p>
 
 <!--
 [![PtrckM GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrckm&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
