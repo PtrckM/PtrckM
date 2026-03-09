@@ -7,7 +7,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PATz0r3d)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ptrckm)
 
-### Hi there 👋
+---
+
+### Hi there <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PtrckM&theme=tokyonight&hide_border=true&border_radius=10&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
@@ -19,20 +21,20 @@
 - 👋 Hi, I’m @PtrckM
 - 👀 I’m interested in python, web development, crypto, cybersecurity & game development
 
-
-
-
 [![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 [![Apple](https://img.shields.io/badge/Apple-MacBook_M1_Max_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 
+---
 
 ### Languages and Tools
 
 <p align="left"> 
 	<img src="https://img.icons8.com/color/50/fa314a/git.png" width="30"/>
 	<img src="https://img.icons8.com/color/50/4a90e2/python.png" width="30"/>
+	<img width="30" alt="bash" src="https://github.com/user-attachments/assets/a79a514e-97c9-4192-be38-48f503f6ba83" />
 	<img src="https://img.icons8.com/color/50/19292/console.png" width="30"/>
 	<img src="https://img.icons8.com/dotty/512/ssh.png" width="30"/>
+	<img width="30" alt="conda" src="https://github.com/user-attachments/assets/1d62e042-f924-4075-9622-62c6d4ee3738" />
 	<img width="30" alt="image" src="https://github.com/user-attachments/assets/cabc9959-150e-40b3-bd85-ec0e3b4f0c23" />
 	<img width="30" alt="image" src="https://github.com/user-attachments/assets/f18af5dd-479f-480e-baab-dd4dd9315a46" />
 	<img width="30" alt="image" src="https://github.com/user-attachments/assets/6bb0b4ab-be9a-4a71-a208-de609a2a342a" />
@@ -41,12 +43,47 @@
 	<img width="30" alt="ubuntu" src="https://github.com/user-attachments/assets/ebae4bb5-6c82-42e2-bccf-4db8a2b52e3f" />
 	<img width="30" alt="debian" src="https://github.com/user-attachments/assets/896367d4-447a-44b3-aa61-b217f15b101c" />
 	<img width="30" alt="testrail" src="https://github.com/user-attachments/assets/cc5051c7-8676-450a-aef7-047b98d46656" />
+	<img width="30" alt="gh" src="https://github.com/user-attachments/assets/5c4a4d9e-1122-4a37-b54f-df0281f0259a" />
+	<img width="30" alt="sublime" src="https://github.com/user-attachments/assets/cbaa06bb-dd73-48fe-9861-226857fa522d" />
+	<img width="30" alt="nvim" src="https://github.com/user-attachments/assets/3b04f68e-6c3d-4cab-a77e-4423313d180c" />
+	<img width="30" alt="omarchy" src="https://github.com/user-attachments/assets/7908ce8f-cfac-49cc-8b01-c8318615000d" />
 	<img width="30" alt="ai" src="https://github.com/user-attachments/assets/c19ad80d-f5de-40f7-9049-20444b60c518" />
-</p>
+</p>	
+---
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PtrckM?cardType=github&theme=tokyonight&fontFamily=Ubuntu&preferLogin=true)](https://git.io/awesome-stats-card)
 
+---
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+🌆 Daytime                225 commits         ██████████░░░░░░░░░░░░░░░   39.82 % 
+🌃 Evening                173 commits         ████████░░░░░░░░░░░░░░░░░   30.62 % 
+🌙 Night                  72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: UTC+08:00
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bv8kp2b7m0bue14t296kwt8dr&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=bv8kp2b7m0bue14t296kwt8dr&redirect=true)
+
+---
+
+<img src="https://imgur.com/rilHVxA.png"/> 
 
 <!--
 [![PtrckM GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrckm&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
