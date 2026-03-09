@@ -2,7 +2,14 @@
 [![Twitter](https://img.shields.io/twitter/url?url=https://x.com/PATz0r3d?style=social&label=PATz0r3d)](https://x.com/PATz0r3d)
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCN8XdHop1sQ4OXwONCmS18g)](https://www.youtube.com/@ptrckm)
 
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PtrckM)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptrckm/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PATz0r3d)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ptrckm)
+
 ### Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PtrckM&theme=tokyonight&hide_border=true&border_radius=10&short_numbers=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D98CF7&background=FF130600&width=435&lines=does+anyone+have+sourcecode+of+life%3F)](https://git.io/typing-svg)
 
@@ -11,6 +18,13 @@
 
 - 👋 Hi, I’m @PtrckM
 - 👀 I’m interested in python, web development, crypto, cybersecurity & game development
+
+
+
+
+[![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Apple](https://img.shields.io/badge/Apple-MacBook_M1_Max_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+
 
 ### Languages and Tools
 
@@ -28,24 +42,18 @@
 	<img width="30" alt="debian" src="https://github.com/user-attachments/assets/896367d4-447a-44b3-aa61-b217f15b101c" />
 	<img width="30" alt="testrail" src="https://github.com/user-attachments/assets/cc5051c7-8676-450a-aef7-047b98d46656" />
 	<img width="30" alt="ai" src="https://github.com/user-attachments/assets/c19ad80d-f5de-40f7-9049-20444b60c518" />
-
-
-	
-
-
-
-
-
-
-	
-
 </p>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PtrckM?cardType=github&theme=tokyonight&fontFamily=Ubuntu&preferLogin=true)](https://git.io/awesome-stats-card)
+
+
+
+<!--
 [![PtrckM GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrckm&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrckm&layout=compact&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 **PtrckM/PtrckM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
