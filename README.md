@@ -58,7 +58,9 @@
 ### Machine
 
 [![Apple](https://img.shields.io/badge/Apple-MacBook_Pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+[![Apple](https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white)]()
 [![Apple](https://img.shields.io/badge/Apple-MacBook_M1_Max_2021-999999?style=for-the-badge&logo=apple&logoColor=white)]()
+
 [![Windows](https://img.shields.io/badge/Windows-11_i7_240h_5080-0078d4?style=for-the-badge&logo=windows11&logoColor=white)]()
 [![Arch](https://img.shields.io/badge/Arch-Linux_i7_6700hq_980-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)]()
 
